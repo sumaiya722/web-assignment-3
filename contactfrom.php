@@ -16,7 +16,7 @@
        <form action="save.php" method="post">
            <input type="text" name="fname"   class="form-control" placeholder="       Enter First Name"> <br>
            <input type="text" name="lname"  class="form-control" placeholder="      Enter last Name"> <br>
-           <input type="email" name="email"  class="form-control" placeholder="      gitEnter Email"> <br>
+           <input type="email" name="email"  class="form-control" placeholder="        Enter Email"> <br>
            <input type="text" name="mobile"  class="form-control" placeholder="      Enter Mobile Number"> <br>
            <input type="text" name="message"  class="form-control" placeholder="     Write A Message"><br>
            <input type="submit" class="form-control submit" value="submit" >
